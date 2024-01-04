@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 donaldww/polars is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Rust](http://www.rust-lang.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -15,11 +16,13 @@ donaldww/polars is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 donaldww/polars is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -33,14 +36,15 @@ donaldww/polars is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [donaldww/polars](https://github.com/donaldww/polars)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|11/09/23 <br/>Report generated|
+|21<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -193,18 +197,19 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (5)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (4)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (5)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[black](https://pypi.org/black)|v23.9.1|10/01/23|dependabot[bot] |MIT|N/A|
-|[hypothesis](https://pypi.org/hypothesis)|v6.87.1|10/01/23|Alexander Beedie |MPL-2.0|N/A|
-|[numpydoc](https://pypi.org/numpydoc)|v1.6.0|10/01/23|dependabot[bot] |BSD-3-Clause|N/A|
-|[pyarrow](https://pypi.org/pyarrow)|N/A|10/24/22|Alexander Beedie |Apache-2.0|N/A|
+|[black](https://pypi.org/project/black)|v23.9.1|10/01/23|dependabot[bot] |MIT|N/A|
+|[hypothesis](https://pypi.org/project/hypothesis)|v6.87.1|10/01/23|Alexander Beedie |MPL-2.0|N/A|
+|[mypy](https://pypi.org/project/mypy)|v1.5.1|08/28/23|Stijn de Gooijer |MIT|N/A|
+|[numpydoc](https://pypi.org/project/numpydoc)|v1.6.0|10/01/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pyarrow](https://pypi.org/project/pyarrow)|N/A|10/24/22|Alexander Beedie |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
