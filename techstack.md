@@ -3,17 +3,17 @@
 ## Tech Stack
 donaldww/polars is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [Rust](http://www.rust-lang.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
 - [R Language](http://www.r-project.org/) – Languages
-- [Sphinx](http://sphinxsearch.com/) – Search Engines
+- [Rust](http://www.rust-lang.org/) – Languages
+- [Matplotlib](http://matplotlib.org) – Charting Libraries
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [LiveReload](http://livereload.com) – Live Reloading
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
 - [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Pandas](http://pandas.pydata.org/) – Data Science Tools
-- [LiveReload](http://livereload.com) – Live Reloading
-- [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Sphinx](http://sphinxsearch.com/) – Search Engines
 
 Full tech stack [here](/techstack.md)
 
@@ -23,17 +23,17 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 donaldww/polars is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
+- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2180/1284191.png' alt='Pandas'/> [Pandas](http://pandas.pydata.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
-- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
 
 Full tech stack [here](/techstack.md)
 
@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [donaldww/polars](https://github.com/donaldww/polars)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|01/05/24 <br/>Report generated|
+|21<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
